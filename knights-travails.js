@@ -73,4 +73,4 @@ const knightsMoves = (begin, end) => {
   return path;
 };
 
-const squares = knightsMoves([3, 3], [4, 3]);
+const squares = knightsMoves([0, 0], [7, 7]);
