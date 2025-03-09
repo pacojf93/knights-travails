@@ -1,1 +1,3 @@
-Knights Travails project form The Odin Project
+Knights Travails project form The Odin Project.
+
+An on-level aproach has been taken to search for the end square. Once found the way back to the beggining is found recursively.
